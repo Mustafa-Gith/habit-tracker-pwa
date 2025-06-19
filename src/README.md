@@ -49,10 +49,10 @@ Project is completed ✅ and open for further improvements such as user authenti
 ---
 
 > 🧾 **Final Submission Date:** June 20, 2025  
-> 📁 **Created by:** Syed Mustafa  
+> 📁 **Created by:** Syed Mustafa Ali 
 > 📬 **Contact:** [GitHub](https://github.com/Mustafa-Gith)
 
 ---
 
-### 🕋 Bismillah, Happy Habit Tracking!
+
 
