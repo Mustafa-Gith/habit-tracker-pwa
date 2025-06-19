@@ -41,9 +41,6 @@ This is a simple and responsive Progressive Web App (PWA) built with **React** a
 
 4. Open `http://localhost:5173` in your browser.
 
-## 📸 Screenshots
-
-*Add screenshots of your app here (optional)*
 
 ## 📅 Project Status
 
